@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    border: 0;
+    margin: 0;
+    background-color: rgb(160, 240, 240);
+}
+.menu1 {
+    border: 2px solid white;
+    height: 60px;
+    background-color: rgb(180, 143, 214);
+}
+.menu2 {
+    border: 2px solid white;
+    height: 70px;
+    background-color: rgb(161, 114, 204);
+}
+.post {
+    border: 2px solid white;
+    height: 45px;
+    background-color: rgb(102, 85, 119);
+}
+.post1 {
+    border: 2px solid white;
+    height: 550px;
+    background-color: rgb(206, 165, 245);
+}
+.post2 {
+    border: 2px solid white;
+    height: 20px;
+    background-color: rgb(187, 117, 253);
+}
+.linea {
+    border: 2px solid white;
+    height: 5px;
+    background-color: rgb(187, 117, 253);
+}
+.pieDePag {
+    border: 2px solid white;
+    height: 30px;
+    background-color: rgb(187, 117, 253);
+}
